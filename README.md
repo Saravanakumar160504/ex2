@@ -1,1 +1,1 @@
-# ex2
+This repository provides a concise and professional implementation of word tokenization using the Natural Language Toolkit (NLTK) in Python. Word tokenization is a foundational preprocessing step in Natural Language Processing (NLP) pipelines, enabling structured analysis of textual data.
